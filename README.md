@@ -19,7 +19,7 @@ This repository contains a responsive email template designed for promoting Belg
    - Copy the HTTPS or SSH URL.
    - Open your terminal or command prompt and run:
      ```bash
-     git clone https://github.com/your-username/belgian-waffle-email-template.git
+     git clone https://github.com/2208saiii/Email-Template.git
      ```
 
 2. **Open in Figma:**
