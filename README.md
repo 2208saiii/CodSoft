@@ -47,18 +47,13 @@ Explore the Figma prototype to view the complete design and interactive elements
 
 ## **Contributing**
 
-We welcome contributions to enhance this template. To contribute:
+I welcome contributions to enhance this template. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Commit your modifications and push to your branch.
 4. Submit a pull request with a summary of your changes.
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE). 
-You are free to use and modify the template for personal or commercial projects.
-
 ## **Contact**
 
-For questions or feedback, please contact us at [mailto: isayali250@gmail.com]
+For questions or feedback, please contact; [mailto: isayali250@gmail.com]
