@@ -5,4 +5,4 @@ Click the link below to view and interact with the Figma prototype: [View Figma 
 
 
 ##**Questions**
-If you have any questions or need further assistance, please refer to the repository’s [README](README.md) or contact us at (mailto:isayali@gmail.com).
+If you have any questions or need further assistance, please refer to the repository’s [README](README.md) or contact; (mailto:isayali@gmail.com).
